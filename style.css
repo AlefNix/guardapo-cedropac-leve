@@ -539,8 +539,8 @@ border-bottom:1px solid #919191;
     }
     .frente2,.frente3,.frente4,.frente5,.frente6,.frente7,.frente8,.costas1,.costas2,.costas3,.costas4,.imgbolso, .imgfrente, .imgcostas, .bolso{
         position: absolute;
-width: 316px;
-    height: 345px;
+    width: 316px;
+    height: 316px;
     }
     .frente1{
     position: absolute;
@@ -550,8 +550,8 @@ width: 316px;
     .switch__container2{
         display: flex;
         position: absolute;
-        left:145px;
-        margin-top:550px;
+        left: 92px;
+        margin-top: 496px;
         vertical-align: baseline;
         z-index: 13;
     }
@@ -567,7 +567,7 @@ width: 316px;
         height: 500px !important;
     }
     .download{
-        margin-top:570px;
+        margin-top:530px;
         width: 120px;
         height: 35px;
         font-size: 15px;
@@ -575,7 +575,7 @@ width: 316px;
         left:-20px
     }
     .uploader{
-        margin-top: 570px;
+        margin-top: 530px;
         width: 116px;
         height: 24px;
         font-size: 16px;
@@ -695,6 +695,10 @@ width: 316px;
         right: 10px;
         width: 40px;
         height: 40px;
+    }
+    .camada,.camada1{
+        width: 316px;
+        height: 316px;
     }
 
     
